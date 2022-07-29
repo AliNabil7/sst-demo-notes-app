@@ -1,4 +1,7 @@
 const config = {
+  SENTRY_DSN:
+    "https://b28691021a1d4aaea24f2d34452b041e@o1339687.ingest.sentry.io/6611877",
+
   STRIPE_KEY:
     "pk_test_51LQYDBFL4SoWx0PZitWCmEAHF5jkeWYTuN2fFnvwCyQK1jV6pIgSMKU8SjtqPsTkD3ubertNbOJjxqdHtGnZpnTS00yDq0ER4g",
 
