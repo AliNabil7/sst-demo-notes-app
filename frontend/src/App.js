@@ -4,7 +4,7 @@ import Nav from "react-bootstrap/Nav";
 import { LinkContainer } from "react-router-bootstrap";
 import { useNavigate } from "react-router-dom";
 import { Auth } from "aws-amplify";
-import { ErrorBoundary } from "./components/ErrorBoundary";
+import ErrorBoundary from "./components/ErrorBoundary";
 import { AppContext } from "./lib/contextLib";
 import { onError } from "./lib/errorLib";
 import Routes from "./Routes";
